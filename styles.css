@@ -30,7 +30,7 @@ body {
 }
 
 section {
-  padding-top: 80px;
+  padding-top: 85px;
 }
 
 .section-title {
@@ -68,6 +68,14 @@ header {
 
 .navbar a:hover {
   color: #ddd;
+}
+
+.logo-text {
+  font-size: 2rem;
+}
+
+.text-special {
+  color: rgba(255, 38, 0, 0.7);
 }
 
 #menu-toggler,
@@ -264,6 +272,7 @@ section .card p {
 }
 
 .foot-end {
+  font-size: 0.85rem;
   text-align: center;
 }
 
